@@ -1,5 +1,5 @@
 INTRODUCTION
-
+------------
 Picture Search
 
 Css:-Semantic UI
@@ -12,14 +12,17 @@ This Application Basically Deals with making a network call and the Use of Ref i
 
 
 DEPLOYED LINK
+------------
 
 https://pic-search-any.netlify.app
 
 REQUIREMENTS
+------------
 
 Node js is to be installed in the system.
 
 INSTALLATION
+------------
 
 Download this Project.
 
